@@ -1,0 +1,29 @@
+.column1{
+  margin-top: 50px;
+}
+
+.column2{
+  margin-top: 50px;
+}
+
+.column3{
+  margin-top: 50px;
+}
+
+li{
+  list-style: none;
+}
+
+.list{
+  float: left;
+  width: 250px;
+}
+
+p{
+  width: 70%;
+}
+
+h3{
+  background-color: rgb(150,150,150);
+  width: 100%;
+}
