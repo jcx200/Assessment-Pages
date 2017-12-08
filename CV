@@ -1,0 +1,142 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>Jamie Christie CV</title>
+  <meta charset='UTF-8'>
+  <link rel="stylesheet" href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\Master.css">
+  <link rel="stylesheet" href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\CV.css">
+</head>
+
+<body>
+
+<header>
+<!-- Page header starts-->
+  <div class="imgContainer">
+    <img src="C:\Users\Jamie\Pictures\iPhone Pictures\Insomnia\IMG_3456.jpg" alt="Picture of me" class="Rotate180">
+  </div>
+
+  <h1>Jamie Christie</h1>
+  
+  <nav class="nav">
+    <!-- Navigation menu begins-->
+    <ul>
+      <li><a href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\indexMe.html">Home Page</a></li>
+      <li><a href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\Projects.html">Personal Projects</a></li>
+      <li><a href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\CV.html">CV Page</a></li>
+      <li><a href="C:\Users\Jamie\Documents\Uni Work\Assessment Pages\Contact Me.html">Contact Me</a></li>
+    </ul>
+
+    <!-- Navigation menu ends-->
+  </nav>
+
+<!-- Page header ends-->
+</header>
+
+<main>
+  <h2 class="heading">Details</h2>
+  <section class="details">
+    <p span="space">02/06/2000 (17)</span></p>
+    <p>7 Dubford Walk</p>
+    <p>Bridge of Don</p>
+    <p>Aberdeen</p>
+    <p>AB23 8GN</p>
+    <p>jcx.200@sky.com</p>
+  </section>
+
+  <p></p>
+
+  <h2 class="heading"> Personal Statement </h2>
+  <section class="personalStatement">
+    <p>
+    A full time first year Computing Science university student with the eventual career goal of becoming a programmer looking for part time work.
+    Conscientious and hardworking as seen by exam results.
+    Willing to take on any assigned task. Wishing to gain work experience in order to further develop existing skills for future employment.
+    </p>
+  </section>
+
+  <p></p>
+
+
+
+  <section class="skills">
+    <h3> Key Skills </h2>
+    <ul>
+      <li> Ability to efficiently use most programs in the Microsoft Office package such as Access, Word and Powerpoint </li>
+      <li> Disciplined through time in the Army Cadet Force </li>
+      <li> Hold a St John Youth First Aid Qualification </li>
+    </ul>
+  </section>
+
+  <h2 class="heading"> Experience </h2>
+
+  <section class="experience">
+    <h4><em> September 2016 - December 2016 </em></h4>
+    <h3> Smyths Toys Superstore - Sales Assistant - Part Time </h3>
+    <p> Unit 6 & 7, Beach Boulevard Retail Park, Links Road, Aberdeen, AB11 5EJ </p>
+
+    <h3> Responsibilities </h3>
+    <ul>
+      <li>Located primarily on the software desk, selling video games and consoles. Involved speaking to customers about products in extensive detail.</li>
+      <li>Dealing with customer requests</li>
+      <li>Processing sales</li>
+      <li>Pricing stock</li>
+    </ul>
+  </section>
+
+
+  <h2 class="heading">Education</h2>
+
+  <section class="education">
+
+    <div class="uni">
+
+    <h4><em>(September 2017 - Present)</em></h4>
+    <h3>Robert Gordons University - School of Computing Science and Digital Media</h3>
+    <h4 class="spacing">Computer Science (BSc)</h4>
+
+  </div>
+
+
+      <div class="secondary">
+      <h4><em>(August 2012 - June 2017)</em></h4>
+      <h3>Oldmachar Academy</h3>
+      <p>National Qualifications (Obtained 08/16)</p>
+      <ul>
+
+        <li><span class="subject">N5 English</span><span class="grade">A</span></li>
+        <li><span class="subject">N5 Mathematics</span><span class="grade">A</span></li>
+        <li><span class="subject">N5 Chemistry</span><span class="grade">A</span></li>
+        <li><span class="subject">N5 Physics</span><span class="grade">A</span></li>
+        <li><span class="subject">N5 Computing Science</span><span class="grade">A</span></li>
+        <li><span class="subject">N5 Business Management</span><span class="grade">B</span></li>
+
+      </ul>
+
+
+      <p>Higher Qualifications (Obtained 08/17)</p>
+      <ul>
+
+        <li><span class="subject">H English</span><span class="grade">A</span></li>
+        <li><span class="subject">H Chemistry</span><span class="grade">A</span></li>
+        <li><span class="subject">H Physics</span><span class="grade">A</span></li>
+        <li><span class="subject">H Computing Science</span><span class="grade">A</span></li>
+        <li><span class="subject">H Mathematics</span><span class="grade">B</span></li>
+      </ul>
+
+    </div>
+
+  </section>
+
+    <h2 class="heading">Hobbies and Interests</h2>
+
+    <section class="hobbies">
+      <p>
+        I am an active member of the Army Cadet Force which I have been attending for four years, every Monday evening.
+        I hold the rank of Cadet Corporal which involves leading a large team of individuals and passing on personal knowledge and skills to younger cadets.
+        I enjoy my time in the ACF very much and it has taught me valuable skills. My role in the ACF allows me to demonstrate leadership skills and how I deal with situations under pressure.
+        I have a heavy interest in computers and technology as a whole. I am furthering my education in this field at university and wish to go into the technology industry in my future career.
+      </p>
+    </section>
+  </main>
+  </body>
+  </html>
