@@ -1,0 +1,66 @@
+main {
+  width: 50%;
+}
+
+#aboutMe{
+  float: left;
+  text-align: justify;
+  padding-right: 50px;
+  height: 30%;
+  margin-right: 20px;
+}
+
+#aboutMe p{
+  width: 500px;
+}
+
+
+.imgMe{
+  display: inline-block;
+  padding-top: 0;
+}
+
+.imgMe img{
+  padding-top: 125px;
+  height: 187px;
+}
+
+
+.hobbies{
+  margin-top: 20px;
+  float: left;
+  padding-top: 50px;
+  width: 500px;
+  text-align: justify;
+}
+
+.music{
+  float: left;
+  margin-right: 2px;
+  padding-top: 30px;
+  height: 150px;
+  max-width: 300px;
+  text-align: justify;
+}
+
+.spotify{
+  display: inline-block;
+  height: 187px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#home{
+  float: left;
+  margin-top: 100px;
+  max-width: 50%;
+  height: 190px;
+  padding-top: 10px;
+}
+
+.maps{
+  margin-top: 100px;
+  margin-left: 50px;
+  display: inline-block;
+  width: 30%;
+}
