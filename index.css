@@ -50,7 +50,7 @@ main {
   padding-top: 20px;
 }
 
-#home{
+.home{
   float: left;
   margin-top: 100px;
   max-width: 50%;
