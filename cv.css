@@ -1,0 +1,58 @@
+.personalStatement{
+  width: 1000px; /* Sets the width of the personalStatement class to 1000 pixels*/
+}
+
+
+.details{
+  padding-top: 35px; /* Adds spacing from the top of the details class*/
+  line-height: 50%; /* Halves the original line height */
+}
+
+
+.experience{
+  float: left;
+}
+
+
+.education{
+  float: left;
+  width: 100%;
+}
+
+
+.education li{
+  list-style-type: none;
+}
+
+.subject{
+  float: left;
+  width: 200px;
+}
+
+.experience li{
+  list-style-type: none;
+}
+
+.spacing{
+  margin-bottom: 40px;
+}
+
+.heading{
+  float: left;
+  background-color: rgb(150,150,150);
+  width: 100%;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.hobbies{
+  float: left;
+}
+
+.uni{
+  background-color: rgb(195,195,195);
+}
+
+.secondary{
+  background-color: rgb(195,195,195);
+}
