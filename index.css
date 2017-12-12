@@ -2,7 +2,7 @@ main {
   width: 50%;
 }
 
-#aboutMe{
+.aboutMe{
   float: left;
   text-align: justify;
   padding-right: 50px;
@@ -10,7 +10,7 @@ main {
   margin-right: 20px;
 }
 
-#aboutMe p{
+.aboutMe p{
   width: 500px;
 }
 
